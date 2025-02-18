@@ -5,6 +5,8 @@
 ![Profile_views](https://komarev.com/ghpvc/?username=danny-pilot&color=green&style=for-the-badge)
 
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet)
+
+![](https://komarev.com/ghpvc/?username=your-github-blueviolet-username&style=for-the-badge)
 <!--
 **juliaurum/juliaurum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
