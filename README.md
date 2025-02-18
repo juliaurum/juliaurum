@@ -1,6 +1,6 @@
 ## こんにちは👋
 
-![Header](https://media.giphy.com/media/TxVVB6PfWMjE4/giphy.gif?cid=ecf05e47glnsh1621k9d3igrcqnqxcfv82chol8gu3avoxnp&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+![Header](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3BjbjFkbXZ5OW9kZjNpbTg3ZmU3eW0xZG44NGlhdmIwanpodDRoeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eHdZZgmLheaqRT6kVX/giphy.gif)
 <!--
 **juliaurum/juliaurum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
