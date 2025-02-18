@@ -1,6 +1,8 @@
 ## こんにちは👋
 
 ![Header](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXo1aTI3NDFpdm84eGh5M3FubXN3ZzBmeDF2dTBmcXN3bWhxZ3U3ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l2R06WPHU4ae0H4LC/giphy.gif)
+
+![Profile_views](https://komarev.com/ghpvc/?username=danny-pilot&color=green&style=for-the-badge)
 <!--
 **juliaurum/juliaurum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
