@@ -14,7 +14,7 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=tokyonight)
 
-TOOLS
+### TOOLS :speech_balloon:
 
 ![Google Assistant](https://img.shields.io/badge/google%20assistant-4285F4?style=for-the-badge&logo=google%20assistant&logoColor=white)
 ![Opera](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white)
