@@ -3,8 +3,8 @@
 - Listen to podcasts about testing; :fire:
 - In testing since 2022;
 - Updated 800+ test cases;
-- Can play the dj-controller: musical_note:![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
-- Love interacting with the chat GPT: ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+- Can play the dj-controller: musical_note: ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
+- Love interacting with the chat GPT:  ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
 Мое кредо: Отсутствие доументации создает сильных тестировщиков!
 
