@@ -1,5 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F740DF&width=435&lines=In+search+of+bugs...)](https://git.io/typing-svg)
 
+### About me : Джулай(Julia):
 - Listen to podcasts about testing; :fire:
 - In testing since 2022;
 - Updated 800+ test cases;
