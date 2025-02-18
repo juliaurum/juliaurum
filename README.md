@@ -1,6 +1,6 @@
 ## こんにちは👋
 
-![Header](https://github.com/juliaurum/juliaurum/blob/main/assets/video.gif)
+![Header](https://media.giphy.com/media/TxVVB6PfWMjE4/giphy.gif?cid=ecf05e47glnsh1621k9d3igrcqnqxcfv82chol8gu3avoxnp&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 <!--
 **juliaurum/juliaurum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
