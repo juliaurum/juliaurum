@@ -7,7 +7,7 @@
 - Can play the dj-controller: musical_note:
 - Love interacting with the chat GPT;
 
-Мое кредо: Ученье – свет, а не ученье – тьма!
+Мое кредо: Отсутствие доументации создает сильных тестировщиков!
 
 ![Header](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXo1aTI3NDFpdm84eGh5M3FubXN3ZzBmeDF2dTBmcXN3bWhxZ3U3ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l2R06WPHU4ae0H4LC/giphy.gif)
 
