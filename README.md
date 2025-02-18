@@ -4,7 +4,7 @@
 - In testing since 2022;
 - Updated 800+ test cases;
 - Can play the dj-controller: musical_note:
-- Love interacting with the chat GPT; ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+- Love interacting with the chat GPT: ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
 Мое кредо: Отсутствие доументации создает сильных тестировщиков!
 
