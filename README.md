@@ -4,7 +4,7 @@
 
 ![Profile_views](https://komarev.com/ghpvc/?username=danny-pilot&color=blueviolet&style=for-the-badge)
 
-https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=tokyonight
+https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark
 
 <!--
 **juliaurum/juliaurum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
